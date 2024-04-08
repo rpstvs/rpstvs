@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rpstvs
 - 👀 I’m interested in a lot of fields: Web and Embedded
 - 🌱 I’m currently learning Backend with Golang
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
